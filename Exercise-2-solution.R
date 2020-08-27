@@ -117,7 +117,7 @@ y[x]
 y[y>=7]																
 #[1]  7 11 13
 
-#EXERCISE : 2.5
+#EXERCISE : 2.6
 #enters values into vector x
 x=c(1,8,2,6,3,8,5,5,5,5)
 #Finds the average value using sum function	
